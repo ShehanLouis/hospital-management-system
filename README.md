@@ -193,12 +193,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ##  📄 License
 
 This project is for educational/demo purposes.
-
-# Build By:-
-
-Kokulan Kugathasan
-📞 +94 76 752 0033
-✉️ kokulankugathasan2003@gmail.com
-🔗 linkedin.com/in/kokulan-kugathasan
-
-https://dashboard.uptimerobot.com/monitors
